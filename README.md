@@ -1,5 +1,3 @@
-# datomic-intro-clojure
-
 Introduction to Datomic workshop, Clojure version
 
 Might be a good idea to do this *before* the workshop takes place:
@@ -16,8 +14,8 @@ And run the tests (exercises):
 
 	lein test
 
-One test will fail, because:
+The time-travel test will fail, because:
 
 	(not (= "Cristiano Ronaldo" "Samuel Eto'o"))
 
-But that's allright, you'll fix it during the workshop.
+But that's allright, you'll fix that during the workshop.
