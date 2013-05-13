@@ -1,0 +1,19 @@
+[
+    ;; Player: twitter screen name
+ 
+    {:db/id #db/id [:db.part/db]
+	 :db/ident :player/twitter.screenName
+	 :db/valueType :db.type/string
+	 :db/cardinality :db.cardinality/one
+	 :db/fulltext true
+	 :db.install/_attribute :db.part/db}
+
+    ;; Player: market value
+    
+    {:db/id #db/id [:db.part/db]
+	 :db/ident :player/marketValue
+	 :db/valueType :db.type/long
+	 :db/cardinality :db.cardinality/one
+     :db/doc "Market value of a player"
+	 :db.install/_attribute :db.part/db}
+]

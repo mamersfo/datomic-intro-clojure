@@ -1,0 +1,155 @@
+[
+{:db/id #db/id[:db.part/user -1000001], :name "Argentina"}
+{:db/id #db/id[:db.part/user -1000002], :name "Belgium"}
+{:db/id #db/id[:db.part/user -1000003], :name "Bosnia and Herzegovina"}
+{:db/id #db/id[:db.part/user -1000004], :name "Brazil"}
+{:db/id #db/id[:db.part/user -1000005], :name "Bulgaria"}
+{:db/id #db/id[:db.part/user -1000006], :name "Cameroon"}
+{:db/id #db/id[:db.part/user -1000007], :name "Canada"}
+{:db/id #db/id[:db.part/user -1000008], :name "China"}
+{:db/id #db/id[:db.part/user -1000009], :name "Cote d'Ivoire"}
+{:db/id #db/id[:db.part/user -1000010], :name "England"}
+{:db/id #db/id[:db.part/user -1000011], :name "France"}
+{:db/id #db/id[:db.part/user -1000012], :name "Germany"}
+{:db/id #db/id[:db.part/user -1000013], :name "Italy"}
+{:db/id #db/id[:db.part/user -1000014], :name "Mali"}
+{:db/id #db/id[:db.part/user -1000015], :name "Netherlands"}
+{:db/id #db/id[:db.part/user -1000016], :name "Portugal"}
+{:db/id #db/id[:db.part/user -1000017], :name "Russia"}
+{:db/id #db/id[:db.part/user -1000018], :name "Saudi Arabia"}
+{:db/id #db/id[:db.part/user -1000019], :name "Serbia"}
+{:db/id #db/id[:db.part/user -1000020], :name "Spain"}
+{:db/id #db/id[:db.part/user -1000021], :name "Sweden"}
+{:db/id #db/id[:db.part/user -1000022], :name "Togo"}
+{:db/id #db/id[:db.part/user -1000023], :name "Turkey"}
+{:db/id #db/id[:db.part/user -1000024], :name "AC Milan", :country #db/id[:db.part/user -1000013]}
+{:db/id #db/id[:db.part/user -1000025], :name "AS Roma", :country #db/id[:db.part/user -1000013]}
+{:db/id #db/id[:db.part/user -1000026], :name "Ajax", :country #db/id[:db.part/user -1000015]}
+{:db/id #db/id[:db.part/user -1000027], :name "Al Sadd", :country #db/id[:db.part/user -1000018]}
+{:db/id #db/id[:db.part/user -1000028], :name "Anzhi Makhachkala", :country #db/id[:db.part/user -1000017]}
+{:db/id #db/id[:db.part/user -1000029], :name "Arsenal", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000030], :name "Atletico Madrid", :country #db/id[:db.part/user -1000020]}
+{:db/id #db/id[:db.part/user -1000031], :name "Atletico Mineiro", :country #db/id[:db.part/user -1000004]}
+{:db/id #db/id[:db.part/user -1000032], :name "Barcelona", :country #db/id[:db.part/user -1000020]}
+{:db/id #db/id[:db.part/user -1000033], :name "Bayern Munich", :country #db/id[:db.part/user -1000012]}
+{:db/id #db/id[:db.part/user -1000034], :name "Beijing Guoan", :country #db/id[:db.part/user -1000008]}
+{:db/id #db/id[:db.part/user -1000035], :name "Botafogo", :country #db/id[:db.part/user -1000004]}
+{:db/id #db/id[:db.part/user -1000036], :name "Chelsea", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000037], :name "Everton", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000038], :name "Flamengo", :country #db/id[:db.part/user -1000004]}
+{:db/id #db/id[:db.part/user -1000039], :name "Fluminense", :country #db/id[:db.part/user -1000004]}
+{:db/id #db/id[:db.part/user -1000040], :name "Fulham", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000041], :name "Galatasaray", :country #db/id[:db.part/user -1000023]}
+{:db/id #db/id[:db.part/user -1000042], :name "HSV Hamburg", :country #db/id[:db.part/user -1000012]}
+{:db/id #db/id[:db.part/user -1000043], :name "Internacional", :country #db/id[:db.part/user -1000004]}
+{:db/id #db/id[:db.part/user -1000044], :name "Internazionale", :country #db/id[:db.part/user -1000013]}
+{:db/id #db/id[:db.part/user -1000045], :name "Juventus", :country #db/id[:db.part/user -1000013]}
+{:db/id #db/id[:db.part/user -1000046], :name "Lazio Roma", :country #db/id[:db.part/user -1000013]}
+{:db/id #db/id[:db.part/user -1000047], :name "Lille", :country #db/id[:db.part/user -1000011]}
+{:db/id #db/id[:db.part/user -1000048], :name "Liverpool", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000049], :name "Manchester City", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000050], :name "Manchester United", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000051], :name "Montreal Impact", :country #db/id[:db.part/user -1000007]}
+{:db/id #db/id[:db.part/user -1000052], :name "Newell's Old Boys", :country #db/id[:db.part/user -1000001]}
+{:db/id #db/id[:db.part/user -1000053], :name "Olympique Lyon", :country #db/id[:db.part/user -1000011]}
+{:db/id #db/id[:db.part/user -1000054], :name "Olympique Marseille", :country #db/id[:db.part/user -1000011]}
+{:db/id #db/id[:db.part/user -1000055], :name "Paris St. Germain", :country #db/id[:db.part/user -1000011]}
+{:db/id #db/id[:db.part/user -1000056], :name "Queens Park Rangers", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000057], :name "Real Madrid", :country #db/id[:db.part/user -1000020]}
+{:db/id #db/id[:db.part/user -1000058], :name "Schalke 04", :country #db/id[:db.part/user -1000012]}
+{:db/id #db/id[:db.part/user -1000059], :name "Sevilla", :country #db/id[:db.part/user -1000020]}
+{:db/id #db/id[:db.part/user -1000060], :name "Shanghai Shenhua", :country #db/id[:db.part/user -1000008]}
+{:db/id #db/id[:db.part/user -1000061], :name "Spartak Moscow", :country #db/id[:db.part/user -1000017]}
+{:db/id #db/id[:db.part/user -1000062], :name "Sporting Lissabon", :country #db/id[:db.part/user -1000016]}
+{:db/id #db/id[:db.part/user -1000063], :name "Stoke City", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000064], :name "Stuttgart", :country #db/id[:db.part/user -1000012]}
+{:db/id #db/id[:db.part/user -1000065], :name "Toronto FC", :country #db/id[:db.part/user -1000007]}
+{:db/id #db/id[:db.part/user -1000066], :name "Tottenham Hotspur", :country #db/id[:db.part/user -1000010]}
+{:db/id #db/id[:db.part/user -1000067], :name "Werder Bremen", :country #db/id[:db.part/user -1000012]}
+{:db/id #db/id[:db.part/user -1000068], :name "Wolfsburg", :country #db/id[:db.part/user -1000012]}
+{:db/id #db/id[:db.part/user -1000069], :name "Aleksandar Kolarov", :country #db/id[:db.part/user -1000019], :person/born 1985, :person/height 187, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000070], :name "Alessandro Nesta", :country #db/id[:db.part/user -1000013], :person/born 1976, :person/height 187, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000071], :name "Alvaro Arbeloa", :country #db/id[:db.part/user -1000020], :person/born 1983, :person/height 183, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000072], :name "Andre-Pierre Gignac", :country #db/id[:db.part/user -1000011], :person/born 1985, :person/height 187, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000073], :name "Andrea Pirlo", :country #db/id[:db.part/user -1000013], :person/born 1979, :person/height 177, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000074], :name "Andrei Arshavin", :country #db/id[:db.part/user -1000017], :person/born 1981, :person/height 172, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000075], :name "Andres Iniesta", :country #db/id[:db.part/user -1000020], :person/born 1984, :person/height 170, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000076], :name "Arjen Robben", :country #db/id[:db.part/user -1000015], :person/born 1984, :person/height 181, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000077], :name "Ashley Cole", :country #db/id[:db.part/user -1000010], :person/born 1980, :person/height 176, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000078], :name "Bastian Schweinsteiger", :country #db/id[:db.part/user -1000012], :person/born 1984, :person/height 183, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000079], :name "Carles Puyol", :country #db/id[:db.part/user -1000020], :person/born 1978, :person/height 178, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000080], :name "Carlos Tevez", :country #db/id[:db.part/user -1000001], :person/born 1984, :person/height 173, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000081], :name "Cesc Fabregas", :country #db/id[:db.part/user -1000020], :person/born 1987, :person/height 179, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000082], :name "Clarence Seedorf", :country #db/id[:db.part/user -1000015], :person/born 1976, :person/height 177, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000083], :name "Cris", :country #db/id[:db.part/user -1000004], :person/born 1977, :person/height 183, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000084], :name "Cristiano Ronaldo", :country #db/id[:db.part/user -1000016], :person/born 1985, :person/height 186, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000085], :name "Daniel Alves", :country #db/id[:db.part/user -1000004], :person/born 1983, :person/height 173, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000086], :name "David Silva", :country #db/id[:db.part/user -1000020], :person/born 1986, :person/height 170, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000087], :name "Deco", :country #db/id[:db.part/user -1000016], :person/born 1977, :person/height 174, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000088], :name "Demy de Zeeuw", :country #db/id[:db.part/user -1000015], :person/born 1983, :person/height 174, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000089], :name "Didier Drogba", :country #db/id[:db.part/user -1000009], :person/born 1978, :person/height 189, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000090], :name "Diego", :country #db/id[:db.part/user -1000004], :person/born 1985, :person/height 173, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000091], :name "Diego Forlan", :country #db/id[:db.part/user -1000001], :person/born 1979, :person/height 180, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000092], :name "Diego Milito", :country #db/id[:db.part/user -1000001], :person/born 1979, :person/height 183, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000093], :name "Dimitar Berbatov", :country #db/id[:db.part/user -1000005], :person/born 1981, :person/height 189, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000094], :name "Dirk Kuyt", :country #db/id[:db.part/user -1000015], :person/born 1980, :person/height 184, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000095], :name "Eden Hazard", :country #db/id[:db.part/user -1000002], :person/born 1991, :person/height 172, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000096], :name "Edin Dzeko", :country #db/id[:db.part/user -1000003], :person/born 1986, :person/height 192, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000097], :name "Emmanuel Adebayor", :country #db/id[:db.part/user -1000022], :person/born 1984, :person/height 191, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000098], :name "Esteban Cambiasso", :country #db/id[:db.part/user -1000001], :person/born 1980, :person/height 177, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000099], :name "Fernando Torres", :country #db/id[:db.part/user -1000020], :person/born 1984, :person/height 186, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000100], :name "Florent Malouda", :country #db/id[:db.part/user -1000011], :person/born 1980, :person/height 177, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000101], :name "Francesco Totti", :country #db/id[:db.part/user -1000013], :person/born 1976, :person/height 180, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000102], :name "Franck Ribery", :country #db/id[:db.part/user -1000013], :person/born 1983, :person/height 170, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000103], :name "Frank Lampard", :country #db/id[:db.part/user -1000010], :person/born 1978, :person/height 184, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000104], :name "Frederic Kanoute", :country #db/id[:db.part/user -1000014], :person/born 1977, :person/height 192, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000105], :name "Gabriel Heinze", :country #db/id[:db.part/user -1000001], :person/born 1978, :person/height 178, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000106], :name "Gareth Barry", :country #db/id[:db.part/user -1000010], :person/born 1981, :person/height 183, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000107], :name "Gerard Pique", :country #db/id[:db.part/user -1000020], :person/born 1987, :person/height 192, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000108], :name "Gianluigi Buffon", :country #db/id[:db.part/user -1000013], :person/born 1978, :person/height 191, :player/position :position/goalkeeper}
+{:db/id #db/id[:db.part/user -1000109], :name "Glen Johnson", :country #db/id[:db.part/user -1000010], :person/born 1984, :person/height 182, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000110], :name "Gonzalo Higuain", :country #db/id[:db.part/user -1000001], :person/born 1987, :person/height 184, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000111], :name "Gregory van der Wiel", :country #db/id[:db.part/user -1000015], :person/born 1988, :person/height 181, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000112], :name "Iker Casillas", :country #db/id[:db.part/user -1000020], :person/born 1981, :person/height 182, :player/position :position/goalkeeper}
+{:db/id #db/id[:db.part/user -1000113], :name "Jan Vertonghen", :country #db/id[:db.part/user -1000002], :person/born 1987, :person/height 189, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000114], :name "Javier Mascherano", :country #db/id[:db.part/user -1000001], :person/born 1984, :person/height 174, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000115], :name "John Heitinga", :country #db/id[:db.part/user -1000015], :person/born 1983, :person/height 180, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000116], :name "Joleon Lescott", :country #db/id[:db.part/user -1000010], :person/born 1982, :person/height 188, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000117], :name "Julio Cesar", :country #db/id[:db.part/user -1000004], :person/born 1979, :person/height 186, :player/position :position/goalkeeper}
+{:db/id #db/id[:db.part/user -1000118], :name "Kaka", :country #db/id[:db.part/user -1000004], :person/born 1982, :person/height 186, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000119], :name "Karim Benzema", :country #db/id[:db.part/user -1000011], :person/born 1987, :person/height 184, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000120], :name "Khalid Boulahrouz", :country #db/id[:db.part/user -1000015], :person/born 1981, :person/height 183, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000121], :name "Klaas-Jan Huntelaar", :country #db/id[:db.part/user -1000015], :person/born 1983, :person/height 186, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000122], :name "Lassana Diarra", :country #db/id[:db.part/user -1000011], :person/born 1985, :person/height 173, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000123], :name "Lionel Messi", :country #db/id[:db.part/user -1000001], :person/born 1987, :person/height 169, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000124], :name "Lisondro Lopez", :country #db/id[:db.part/user -1000001], :person/born 1983, :person/height 174, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000125], :name "Maicon", :country #db/id[:db.part/user -1000004], :person/born 1981, :person/height 184, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000126], :name "Mario Balotelli", :country #db/id[:db.part/user -1000013], :person/born 1990, :person/height 190, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000127], :name "Mesut Ozil", :country #db/id[:db.part/user -1000012], :person/born 1988, :person/height 183, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000128], :name "Michael Owen", :country #db/id[:db.part/user -1000010], :person/born 1979, :person/height 173, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000129], :name "Miroslav Klose", :country #db/id[:db.part/user -1000012], :person/born 1978, :person/height 184, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000130], :name "Nani", :country #db/id[:db.part/user -1000016], :person/born 1986, :person/height 176, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000131], :name "Nigel de Jong", :country #db/id[:db.part/user -1000015], :person/born 1984, :person/height 174, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000132], :name "Rafael van der Vaart", :country #db/id[:db.part/user -1000015], :person/born 1983, :person/height 176, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000133], :name "Raul", :country #db/id[:db.part/user -1000020], :person/born 1977, :person/height 180, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000134], :name "Ricardo Carvalho", :country #db/id[:db.part/user -1000016], :person/born 1978, :person/height 182, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000135], :name "Rio Ferdinand", :country #db/id[:db.part/user -1000010], :person/born 1978, :person/height 191, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000136], :name "Robin van Persie", :country #db/id[:db.part/user -1000015], :person/born 1983, :person/height 186, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000137], :name "Robinho", :country #db/id[:db.part/user -1000004], :person/born 1984, :person/height 172, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000138], :name "Ronaldinho", :country #db/id[:db.part/user -1000004], :person/born 1980, :person/height 182, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000139], :name "Sami Khedira", :country #db/id[:db.part/user -1000012], :person/born 1987, :person/height 189, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000140], :name "Samir Nasri", :country #db/id[:db.part/user -1000011], :person/born 1987, :person/height 178, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000141], :name "Samuel Eto'o", :country #db/id[:db.part/user -1000006], :person/born 1981, :person/height 180, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000142], :name "Sergio Aguero", :country #db/id[:db.part/user -1000001], :person/born 1988, :person/height 173, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000143], :name "Sergio Ramos", :country #db/id[:db.part/user -1000020], :person/born 1986, :person/height 183, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000144], :name "Steven Gerrard", :country #db/id[:db.part/user -1000010], :person/born 1980, :person/height 183, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000145], :name "Torsten Frings", :country #db/id[:db.part/user -1000012], :person/born 1976, :person/height 182, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000146], :name "Vincent Kompany", :country #db/id[:db.part/user -1000002], :person/born 1986, :person/height 191, :player/position :position/defender}
+{:db/id #db/id[:db.part/user -1000147], :name "Wayne Rooney", :country #db/id[:db.part/user -1000010], :person/born 1985, :person/height 176, :player/position :position/striker}
+{:db/id #db/id[:db.part/user -1000148], :name "Wesley Sneijder", :country #db/id[:db.part/user -1000015], :person/born 1984, :person/height 170, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000149], :name "Xabi Alonso", :country #db/id[:db.part/user -1000020], :person/born 1981, :person/height 183, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000150], :name "Xavi", :country #db/id[:db.part/user -1000020], :person/born 1980, :person/height 170, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000151], :name "Yaya Toure", :country #db/id[:db.part/user -1000009], :person/born 1983, :person/height 191, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000152], :name "Yoann Gourcuff", :country #db/id[:db.part/user -1000011], :person/born 1986, :person/height 185, :player/position :position/midfielder}
+{:db/id #db/id[:db.part/user -1000153], :name "Zlatan Ibrahimovic", :country #db/id[:db.part/user -1000021], :person/born 1981, :person/height 195, :player/position :position/striker}
+]

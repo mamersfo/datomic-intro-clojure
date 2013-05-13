@@ -1,0 +1,52 @@
+[
+    ;; Entity: Name
+    
+    {:db/id #db/id [:db.part/db]
+	 :db/ident :name
+	 :db/valueType :db.type/string
+	 :db/cardinality :db.cardinality/one
+	 :db/fulltext true
+     :db/doc "Name of an entity (country, team or player)"
+	 :db.install/_attribute :db.part/db}
+    
+    ;; Entity: Country
+    
+    {:db/id #db/id [:db.part/db]
+	 :db/ident :country
+	 :db/valueType :db.type/ref
+	 :db/cardinality :db.cardinality/one
+     :db/doc "Country of an entity (team or player)"
+	 :db.install/_attribute :db.part/db}    
+
+    ;; Person: Born
+    
+    {:db/id #db/id [:db.part/db]
+	 :db/ident :person/born
+	 :db/valueType :db.type/long
+	 :db/cardinality :db.cardinality/one
+     :db/doc "The year a person was born"
+	 :db.install/_attribute :db.part/db}
+
+    ;; Person: Height
+    
+    {:db/id #db/id [:db.part/db]
+	 :db/ident :person/height
+	 :db/valueType :db.type/long
+	 :db/cardinality :db.cardinality/one
+     :db/doc "Height of a person"
+	 :db.install/_attribute :db.part/db}
+    
+    ;; Player: Position
+    
+    {:db/id #db/id [:db.part/db]
+	 :db/ident :player/position
+	 :db/valueType :db.type/ref
+	 :db/cardinality :db.cardinality/one
+     :db/doc "Field position of a player"
+	 :db.install/_attribute :db.part/db}
+        
+    [:db/add #db/id[:db.part/user] :db/ident :position/goalkeeper]
+    [:db/add #db/id[:db.part/user] :db/ident :position/defender]
+    [:db/add #db/id[:db.part/user] :db/ident :position/midfielder]
+    [:db/add #db/id[:db.part/user] :db/ident :position/striker]    
+]
