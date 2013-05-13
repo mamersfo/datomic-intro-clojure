@@ -1,5 +1,4 @@
-datomic-intro-clojure
-=====================
+# datomic-intro-clojure
 
 Introduction to Datomic workshop, Clojure version
 
@@ -11,15 +10,14 @@ Install [Leiningen](https://github.com/technomancy/leiningen)
 
 Perform
 
-  lein deps
+	lein deps
 
 And run the tests (exercises):
 
-  lein test
+	lein test
 
 One test will fail, because:
 
-  (not (= "Cristiano Ronaldo" "Samuel Eto'o"))
+	(not (= "Cristiano Ronaldo" "Samuel Eto'o"))
 
-But that's allright, you'll fix it during the workshop
-
+But that's allright, you'll fix it during the workshop.
